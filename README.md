@@ -44,6 +44,10 @@ https://www.jinfowar.com/tags/cyber-intelligence
 https://www.jinfowar.com/tags/cyber-threat-intelligence
 
 
+#### International Journal of Intelligence Ethics
+Features a wide range of topics relevant to the legal and ethical aspects of intelligence operations.
+https://journals.flvc.org/ijie/index
+
 
 #### Journal of Policing, Intelligence and Counter Terrorism (JPICT)
 an international peer reviewed scholarly journal that acts as a forum for those around the world undertaking high quality research and practice in the areas of: Policing studies, Intelligence studies, Terrorism and counter terrorism studies; Cyber-policing, intelligence and terrorism.
