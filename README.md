@@ -1,4 +1,4 @@
-A list of Per-Reviewed Journals, Books and Blogs on intelligence and Cybersecurity
+A list of Per-Reviewed Journals, Conferences and Blogs on intelligence and Cybersecurity
 
 # Intelligence
 
