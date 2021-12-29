@@ -49,9 +49,24 @@ Features a wide range of topics relevant to the legal and ethical aspects of int
 https://journals.flvc.org/ijie/index
 
 
+#### PRISM (Nation Defense University, Washington D.C.)
+NDU’s journal of complex operations, promotes informed discourse among national and international security professionals concerning our complex global security environment and whole-of-community efforts to meet longstanding and emerging challenges.
+https://ndupress.ndu.edu/Journals/PRISM/
+
+
 #### Journal of Policing, Intelligence and Counter Terrorism (JPICT)
 an international peer reviewed scholarly journal that acts as a forum for those around the world undertaking high quality research and practice in the areas of: Policing studies, Intelligence studies, Terrorism and counter terrorism studies; Cyber-policing, intelligence and terrorism.
 https://www.tandfonline.com/toc/rpic20/current
+
+
+
+
+## Conferences
+#### International Association For Intelligence Education (IAFIE)
+An international organization dedicated to advancing the intelligence profession. IAFIE focuses on intelligence education, standards for education, and the dissemination of open source, intelligence knowledge through its student and professional chapter network, international conferences, and global communication channels.
+https://www.iafie.org/
+
+
 
 
 # Cybersecurity
@@ -89,6 +104,20 @@ https://vc.bridgew.edu/ijcic/
 #### Organizational Cybersecurity Journal: Practice, Process, and People
 an international, open access, peer-reviewed academic journal focusing on all topics related to cybersecurity management. The journal welcomes papers from human, technical, and process perspectives on the topic.
 https://www.emeraldgrouppublishing.com/journal/ocj
+
+
+
+
+## Conferences
+#### SANS CTI
+CTI Summits are comprised of in-depth presentations, panel discussions, interactive workshops, and sharing forums, where you'll collaborate with fellow cyber security practitioners to generate solutions and uncover tools that will help you protect your organization from ever-evolving threats.
+https://www.sans.org/cyber-security-summit/
+
+
+#### USENIX
+Has brought together the community of engineers, system administrators, SREs, researchers, and technicians working on the cutting edge of the computing world. USENIX conferences have become the essential meeting grounds for the presentation and discussion of the most advanced information on the development of all aspects of computing systems.
+https://www.usenix.org/conferences/all
+
 
 
 # Possibly Relevant - Needs more research
