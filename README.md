@@ -37,6 +37,14 @@ an international peer-reviewed journal that aims to provide a forum for original
 http://intelligence-history.org/?page_id=16
 
 
+#### Gloabl Security & Intelligence Studies (GSIS)
+a forum in which the academic community, practitioners, leaders, and policymakers can engage in meaningful and developmental dialogue about contemporary global security and intelligence issues.
+https://gsis.scholasticahq.com/
+
+
+#### Jane's Intelligence Review
+
+
 #### Journal of Information Warfare (JIW) 
 The _Journal of Information Warfare_ was created to provide a forum for academics and practitioners in the broad discipline of information warfare and operations. The journal's audience includes academic researchers, defense and military professionals, government officials, and industry professionals. Topics covered in the journal range from the physical destruction of systems to the psychological aspects of information use and protection.
 https://www.jinfowar.com/
