@@ -32,6 +32,17 @@ publication that strives to "bridge the gap" between academic research and the p
 https://www.ialeia.org/journal_of_intelligence_and_an.php
 
 
+#### Studies in Intelligence (Journal of the American Intelligence Professional - CIA)
+The Center for the Study of Intelligence (CSI) serves as a trusted repository of unclassified intelligence articles, publications, and scholarship. CSI's professional journal, Studies in Intelligence, publishes articles, reviews, and analysis from the U.S. Intelligence Community and from intelligence experts and scholars throughout the world.
+https://www.cia.gov/resources/csi/studies-in-intelligence/
+
+
+#### The Intelligencer: Journal of U.S. Intelligence Studies
+Intelligencer features papers, book announcements and reviews by intelligence professionals, and analyses of important intelligence topics. The Journal, which runs 128 pages per issue, appears three times a year, and reaches over 5,000 members and subscribers of which are many government agencies and libraries, universities, and Congress. 
+https://www.afio.com/22_intelligencer.htm
+https://www.afio.com/
+
+
 #### Journal of Intelligence History
 an international peer-reviewed journal that aims to provide a forum for original research on the history of intelligence services, activities and their wider historical, political and social contexts.
 http://intelligence-history.org/?page_id=16
@@ -43,6 +54,11 @@ https://gsis.scholasticahq.com/
 
 
 #### Jane's Intelligence Review
+
+
+#### The Journal of Strategic Security (JSS)
+The Journal provides a multi-disciplinary forum for scholarship and discussion of strategic security issues drawing from the fields of global security, international relations, intelligence, terrorism and counterterrorism studies, among others. 
+https://digitalcommons.usf.edu/jss/
 
 
 #### Journal of Information Warfare (JIW) 
@@ -70,9 +86,25 @@ https://www.tandfonline.com/toc/rpic20/current
 
 
 ## Conferences
+
 #### International Association For Intelligence Education (IAFIE)
 An international organization dedicated to advancing the intelligence profession. IAFIE focuses on intelligence education, standards for education, and the dissemination of open source, intelligence knowledge through its student and professional chapter network, international conferences, and global communication channels.
 https://www.iafie.org/
+
+
+#### Need to Know conferences
+The Need to Know conferences are organized by the International Centre for Defence and Security, the Institute of National Remembrance - Commission for the Prosecution of Crimes against the Polish Nation, the Center for Cold War Studies of the University of Southern Denmark, the King’s College London, and the Norwegian Aviation Museum.
+https://need2know.net/
+
+
+#### North American Society for Intelligence History (NASIH)
+The North American Society for Intelligence History (NASIH) was formed in the summer of 2016 and the goal is to encourage and support the study of intelligence history in Canada and the United States and to highlight the accomplishment of those in our field.
+https://www.intelligencehistory.org/
+
+
+#### Intelligence Studies Section (ISS - Requires membership in ISA)
+The Intelligence Studies Section (ISS) is devoted to the advancement of research on all aspects of intelligence as it relates to international studies. Dedicated to studying and teaching the specific subject of intelligence, the ISS also believes that the subject should be addressed in the larger context of international relations, foreign policy, international law, ethics, and the efforts of nation-states to maintain political, economic, and military security.
+https://www.isanet.org/ISA/Sections/ISS
 
 
 
@@ -129,17 +161,28 @@ https://www.usenix.org/conferences/all
 
 
 # Possibly Relevant - Needs more research
-
-#### Security Dialogue
+Security Dialogue
 Security Dialogue aims to combine cutting-edge advances in theory with new empirical findings across a range of fields relevant to the study of security. Security Dialogue provides an outlet for new approaches and methodologies from disciplines such as international studies, gender studies, political sociology, political economy, geography, cultural studies, political theory, anthropology, development studies, postcolonial studies, and peace and conflict studies.
 https://journals.sagepub.com/home/SDI
 
 
-#### Journal of Military Ethics
+Journal of Military Ethics
 an international, peer-reviewed journal devoted to normative aspects of military force. The journal publishes articles discussing justifications for the resort to military force ( _jus ad bellum_) and/or what may justifiably be done in the use of such force ( _jus in bello_). The scope of **_JME_** also includes research/discussion on ethical issues in military training, as well as the post-conflict role of military forces.
 https://www.tandfonline.com/journals/smil20
 
 
-#### Journal of Intelligence Studies in Business (JISIB)
+Journal of Intelligence Studies in Business (JISIB)
 JISIB is a peer-reviewed, no-fee Open Access Journal. The journal publishes articles on topics including market intelligence, marketing intelligence, strategic intelligence, business intelligence, competitive intelligence, collective intelligence, financial intelligence, scientific and technical intelligence, foresight, insight, and equivalent terms in other languages.
 https://ojs.hh.se/index.php/JISIB
+
+
+Connections: The Quarterly Journal
+http://connections-qj.org/ 
+
+
+Romanian Intelligence Studies Review
+https://animv.ro/en/revista-romana-de-studii-de-intelligence/ 
+
+
+Intelligence & Interview
+https://www.scuolafilosofica.com/intelligenceinterview 
