@@ -2,9 +2,9 @@ A list of Per-Reviewed Journals, Conferences and Blogs on intelligence and Cyber
 
 # Intelligence
 
-#### Intelligence and national security
+**Intelligence and national security**
 Intelligence and National Security is a leading journal focused on the role of intelligence and secretive agencies in international relations and politics.
-https://www.tandfonline.com/journals/fint20
+(https://www.tandfonline.com/journals/fint20)
 
 
 #### International Journal of Intelligence and CounterIntelligence
