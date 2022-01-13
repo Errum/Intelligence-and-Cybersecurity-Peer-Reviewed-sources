@@ -189,5 +189,5 @@ https://www.scuolafilosofica.com/intelligenceinterview
 
 
 **RUSI Journal**  
-Published six times a year, the RUSI Journal is the Institute’s flagship publication and a leading forum for the exchange of ideas on national and international defence and security issues. Considered to be essential reading for anyone seeking to understand war and conflict, British and international defence and security policies, and military history.
+Published six times a year, the RUSI Journal is the Institute’s flagship publication and a leading forum for the exchange of ideas on national and international defence and security issues. Considered to be essential reading for anyone seeking to understand war and conflict, British and international defence and security policies, and military history.  
 https://rusi.org/explore-our-research/publications/rusi-journal
