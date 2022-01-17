@@ -56,6 +56,12 @@ https://gsis.scholasticahq.com/
 **Jane's Intelligence Review**  
 
 
+
+**Journal of European and American Intelligence Studies (JEAIS, formerly the Journal of Mediterranean and Balkan Intelligence —JMBI)**  
+An international academic-led scholarly publication that focuses on the field of intelligence and related areas of study and practice, such as terrorism and counterterrorism, domestic and international security, geopolitics, and international relations.  
+https://rieas.gr/intelligence-journal/home-intelligence
+
+
 **The Journal of Strategic Security (JSS)**  
 The Journal provides a multi-disciplinary forum for scholarship and discussion of strategic security issues drawing from the fields of global security, international relations, intelligence, terrorism and counterterrorism studies, among others.  
 https://digitalcommons.usf.edu/jss/
