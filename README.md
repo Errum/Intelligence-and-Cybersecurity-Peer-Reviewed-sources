@@ -52,7 +52,7 @@ https://www.afio.com/
 
 <br>
 
-**Global Security & Intelligence Studies (GSIS)**  - Norwegian Impact = 0 (Applied to be added to HKDIR)  
+**Global Security & Intelligence Studies (GSIS)**  - Norwegian Impact = 0 (Applied to be re-evaluated by HKDIR)  
 a forum in which the academic community, practitioners, leaders, and policymakers can engage in meaningful and developmental dialogue about contemporary global security and intelligence issues.  
 https://gsis.scholasticahq.com/
 
