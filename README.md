@@ -1,199 +1,262 @@
 A list of Per-Reviewed Journals, Conferences and Blogs on intelligence and Cybersecurity
+Each listing is compared to a Norwegian "impact" system from 0 to 2 where:
+* **Level 2** is the highest level. The scientific panels carries out the yearly nomination for level 2. 
+* **Level 1** are publication channels considered to satisfy the minimum requirement to be counted as scientific (external peer review, scientific editorial board and minimum national authorship).
+* **Level 0* means that the publication channel has been considered, but rejected. The publication channel is not approved and publishing in it will not yield publication points. 
+* **Level x** are publication channels where we are in doubt whether the publication channel should be approved or not, in light of current criteria and available information. 
+(Source: https://kanalregister.hkdir.no/publiseringskanaler/Om.action?request_locale=en)
+
+<br>
+
+<br>
 
 # Intelligence
 
-**Intelligence and national security**  
+<br>
+
+**Intelligence and national security**  - Norwegian Impact = 1
 Intelligence and National Security is a leading journal focused on the role of intelligence and secretive agencies in international relations and politics.  
 https://www.tandfonline.com/journals/fint20
 
+<br>
 
-**International Journal of Intelligence and CounterIntelligence**  
+**International Journal of Intelligence and CounterIntelligence**  - Norwegian Impact = 1
 Research on national security and past developments that helps government and businesses to make contemporary intelligence-related decisions and policy.  
 https://www.tandfonline.com/toc/ujic20/current/
 
+<br>
 
-**The International Journal of Intelligence, Security, and Public Affairs**  
+**The International Journal of Intelligence, Security, and Public Affairs**  - Norwegian Impact = n/a
 Original academic and professional articles on matters related to intelligence applied to security, defense, business and the financial-economic environment.  
 https://www.tandfonline.com/usip20
 
+<br>
 
-**American Intelligence Journal**  
+**American Intelligence Journal**  - Norwegian Impact = n/a
 Now in its fourth decade, the Journal's focus remains on education and professional development. We seek to augment both the capabilities and the performance of armed forces intelligence operators and their civilian counterparts.  
 https://www.jstor.org/journal/amerintej
 
+<br>
 
-**The Journal of Intelligence, Conflict, and Warfare**  
+**The Journal of Intelligence, Conflict, and Warfare**  - Norwegian Impact = n/a
 The JICW is a practitioner-focused research resource and a researcher-focused opportunity to impact policy and real-world security and defence decision making.  
 https://jicw.org/index.php/jicw
 
+<br>
 
-**Journal of Intelligence and Analysis**  
+**Journal of Intelligence and Analysis**  - Norwegian Impact = n/a
 publication that strives to "bridge the gap" between academic research and the practical techniques employed by criminal research specialists and intelligence experts worldwide.  
 https://www.ialeia.org/journal_of_intelligence_and_an.php
 
+<br>
 
-**Studies in Intelligence (Journal of the American Intelligence Professional - CIA)**  
+**Studies in Intelligence (Journal of the American Intelligence Professional - CIA)**  - Norwegian Impact = n/a
 The Center for the Study of Intelligence (CSI) serves as a trusted repository of unclassified intelligence articles, publications, and scholarship. CSI's professional journal, Studies in Intelligence, publishes articles, reviews, and analysis from the U.S. Intelligence Community and from intelligence experts and scholars throughout the world.  
 https://www.cia.gov/resources/csi/studies-in-intelligence/
 
+<br>
 
-**The Intelligencer: Journal of U.S. Intelligence Studies**  
+**The Intelligencer: Journal of U.S. Intelligence Studies**  - Norwegian Impact = n/a
 Intelligencer features papers, book announcements and reviews by intelligence professionals, and analyses of important intelligence topics. The Journal, which runs 128 pages per issue, appears three times a year, and reaches over 5,000 members and subscribers of which are many government agencies and libraries, universities, and Congress.  
 https://www.afio.com/22_intelligencer.htm  
 https://www.afio.com/
 
+<br>
 
-**Journal of Intelligence History**  
+**Journal of Intelligence History**  - Norwegian Impact = n/a
 an international peer-reviewed journal that aims to provide a forum for original research on the history of intelligence services, activities and their wider historical, political and social contexts.  
 http://intelligence-history.org/?page_id=16
 
+<br>
 
-**Gloabl Security & Intelligence Studies (GSIS)**  
+**Global Security & Intelligence Studies (GSIS)**  - Norwegian Impact = 0
 a forum in which the academic community, practitioners, leaders, and policymakers can engage in meaningful and developmental dialogue about contemporary global security and intelligence issues.  
 https://gsis.scholasticahq.com/
 
+<br>
 
-**Jane's Intelligence Review**  
-
-
-
-**Journal of European and American Intelligence Studies (JEAIS, formerly the Journal of Mediterranean and Balkan Intelligence —JMBI)**  
+**Journal of European and American Intelligence Studies (JEAIS, formerly the Journal of Mediterranean and Balkan Intelligence (JMBI))**  - Norwegian Impact = n/a
 An international academic-led scholarly publication that focuses on the field of intelligence and related areas of study and practice, such as terrorism and counterterrorism, domestic and international security, geopolitics, and international relations.  
 https://rieas.gr/intelligence-journal/home-intelligence
 
+<br>
 
-**The Journal of Strategic Security (JSS)**  
+**The Journal of Strategic Security (JSS)**  - Norwegian Impact = 1
 The Journal provides a multi-disciplinary forum for scholarship and discussion of strategic security issues drawing from the fields of global security, international relations, intelligence, terrorism and counterterrorism studies, among others.  
 https://digitalcommons.usf.edu/jss/
 
+<br>
 
-**Journal of Information Warfare (JIW)**  
+**Journal of Information Warfare (JIW)**  - Norwegian Impact = 1
 The _Journal of Information Warfare_ was created to provide a forum for academics and practitioners in the broad discipline of information warfare and operations. The journal's audience includes academic researchers, defense and military professionals, government officials, and industry professionals. Topics covered in the journal range from the physical destruction of systems to the psychological aspects of information use and protection.  
 https://www.jinfowar.com/  
 https://www.jinfowar.com/tags/cyber-intelligence  
 https://www.jinfowar.com/tags/cyber-threat-intelligence
 
+<br>
 
-**International Journal of Intelligence Ethics**  
+**International Journal of Intelligence Ethics**  - Norwegian Impact = n/a
 Features a wide range of topics relevant to the legal and ethical aspects of intelligence operations.  
 https://journals.flvc.org/ijie/index
 
+<br>
 
-**PRISM (Nation Defense University, Washington D.C.)**  
+**PRISM (National Defense University, Washington D.C.)**  - Norwegian Impact = 0
 NDU’s journal of complex operations, promotes informed discourse among national and international security professionals concerning our complex global security environment and whole-of-community efforts to meet longstanding and emerging challenges.  
 https://ndupress.ndu.edu/Journals/PRISM/
 
+<br>
 
-**Journal of Policing, Intelligence and Counter Terrorism (JPICT)**  
+**Journal of Policing, Intelligence and Counter Terrorism (JPICT)**  - Norwegian Impact = 1
 an international peer reviewed scholarly journal that acts as a forum for those around the world undertaking high quality research and practice in the areas of: Policing studies, Intelligence studies, Terrorism and counter terrorism studies; Cyber-policing, intelligence and terrorism.  
 https://www.tandfonline.com/toc/rpic20/current
 
+<br>
 
 
+<br>
 
 ## Conferences
 
-**International Association For Intelligence Education (IAFIE)**  
-An international organization dedicated to advancing the intelligence profession. IAFIE focuses on intelligence education, standards for education, and the dissemination of open source, intelligence knowledge through its student and professional chapter network, international conferences, and global communication channels.  
+<br>
+
+**International Association For Intelligence Education (IAFIE)**  - Norwegian Impact = n/a
+An international organization dedicated to advancing the intelligence profession. IAFIE focuses on intelligence education, standards for education, and the dissemination of open source, intelligence knowledge through its student and professional chapter network, international conferences, and global communication channels.
 https://www.iafie.org/
 
+<br>
 
 **Need to Know conferences**  
 The Need to Know conferences are organized by the International Centre for Defence and Security, the Institute of National Remembrance - Commission for the Prosecution of Crimes against the Polish Nation, the Center for Cold War Studies of the University of Southern Denmark, the King’s College London, and the Norwegian Aviation Museum.  
 https://need2know.net/
 
+<br>
 
 **North American Society for Intelligence History (NASIH)**  
 The North American Society for Intelligence History (NASIH) was formed in the summer of 2016 and the goal is to encourage and support the study of intelligence history in Canada and the United States and to highlight the accomplishment of those in our field.  
 https://www.intelligencehistory.org/
 
+<br>
 
 **Intelligence Studies Section (ISS - Requires membership in ISA)**  
 The Intelligence Studies Section (ISS) is devoted to the advancement of research on all aspects of intelligence as it relates to international studies. Dedicated to studying and teaching the specific subject of intelligence, the ISS also believes that the subject should be addressed in the larger context of international relations, foreign policy, international law, ethics, and the efforts of nation-states to maintain political, economic, and military security.  
 https://www.isanet.org/ISA/Sections/ISS
 
+<br>
 
 
+<br>
 
 # Cybersecurity
-**Journal of Cybersecurity (Oxford)**  
+
+<br>
+
+**Journal of Cybersecurity (Oxford)**  - Norwegian Impact = 1
 Journal of Cybersecurity publishes accessible articles describing original research in the inherently interdisciplinary cyber domain.  
 https://academic.oup.com/cybersecurity/
 
+<br>
 
-**Journal of Threat Intelligence and Incident Response**  
+**Journal of Threat Intelligence and Incident Response**  - Norwegian Impact = n/a
 The Journal of Threat Intelligence and Incident Response seeks to bridge the gap between industry and academia by providing a forum to share peer reviewed, relevant, and academically rigorous research that will provide a much needed scholarly source to support future research into the areas of cyber threat intelligence and incident response.  
 https://digitalcommons.calpoly.edu/jtiir/  
 https://www.sans.org/presentations/journal-of-threat-intelligence-and-incident-response/
 
+<br>
 
-**Journal of Strategic Threat Intelligence (Harvard)**  
+**Journal of Strategic Threat Intelligence (Harvard)**  - Norwegian Impact = n/a
 publishes research reports informed by a wide array of theoretical perspectives (from Sociology to Computer Science, through Criminal Law), innovative in form and content, and focused on both traditional and emerging topics in the fields of Cybercrime, Cyberwarfare and Cybersecurity. It welcomes articles concerned with managerial and strategic issues.  
 https://blogs.harvard.edu/cybersecurity/
 
+<br>
 
-**Journal of Cybersecurity and Privacy**  
+**Journal of Cybersecurity and Privacy**  - Norwegian Impact = 1
 an online, open access, peer-reviewed journal which provides a forum for the dissemination of research related to all technical areas of cybersecurity. This includes information, computer and network security, cryptography, cyber–physical system security, digital forensics, etc. In addition, the journal also includes interdisciplinary articles that cover the privacy, ethical, legal, and economic aspects of cybersecurity.  
 https://www.mdpi.com/journal/jcp
 
+<br>
 
-**Cybersecurity (SpringerOpen)**  
+**Cybersecurity (SpringerOpen)**  - Norwegian Impact = 1
 This journal is aimed to systematically cover all essential aspects of cybersecurity, with a focus on reporting on cyberspace security issues, the latest research results, and real-world deployment of security technologies.  
 https://cybersecurity.springeropen.com/
 
+<br>
 
-**International Journal of Cybersecurity Intelligence and Cybercrime (IJCIC)**  
+**International Journal of Information Security and Cybercrime (IJISC)**  - Norwegian Impact = 1
+a scientific peer-reviewed journal, founded in 2012 and published by the Romanian Association for Information Security Assurance (RAISA). The journal is edited by professorial staff and experts from the University Politehnica of Bucharest and other universities from Romania and abroad.
+https://www.ijisc.com/
+
+<br>
+
+**International Journal of Cybersecurity Intelligence and Cybercrime (IJCIC)**  - Norwegian Impact = n/a
 The Journal welcomes research submissions from criminologists, social scientists, computer scientists, cybersecurity practitioners, members of police agencies, policy-makers, and academic researchers. International and global perspectives on cybercrime and cybersecurity topics are also welcome for submission.  
 https://vc.bridgew.edu/ijcic/
 
+<br>
 
-**Organizational Cybersecurity Journal: Practice, Process, and People**  
+**Organizational Cybersecurity Journal: Practice, Process, and People**  - Norwegian Impact = n/a
 an international, open access, peer-reviewed academic journal focusing on all topics related to cybersecurity management. The journal welcomes papers from human, technical, and process perspectives on the topic.  
 https://www.emeraldgrouppublishing.com/journal/ocj
 
+<br>
 
-
+<br>
 
 ## Conferences
+
+<br>
+
 **SANS CTI**  
 CTI Summits are comprised of in-depth presentations, panel discussions, interactive workshops, and sharing forums, where you'll collaborate with fellow cyber security practitioners to generate solutions and uncover tools that will help you protect your organization from ever-evolving threats.  
 https://www.sans.org/cyber-security-summit/
 
+<br>
 
 **USENIX**  
 Has brought together the community of engineers, system administrators, SREs, researchers, and technicians working on the cutting edge of the computing world. USENIX conferences have become the essential meeting grounds for the presentation and discussion of the most advanced information on the development of all aspects of computing systems.  
 https://www.usenix.org/conferences/all
 
+<br>
 
+<br>
 
 # Possibly Relevant - Needs more research
+
+<br>
+
 **Security Dialogue**  
 Security Dialogue aims to combine cutting-edge advances in theory with new empirical findings across a range of fields relevant to the study of security. Security Dialogue provides an outlet for new approaches and methodologies from disciplines such as international studies, gender studies, political sociology, political economy, geography, cultural studies, political theory, anthropology, development studies, postcolonial studies, and peace and conflict studies.  
 https://journals.sagepub.com/home/SDI
 
+<br>
 
-**Journal of Military Ethics**  
+**Journal of Military Ethics**  - Norwegian Impact = 1
 an international, peer-reviewed journal devoted to normative aspects of military force. The journal publishes articles discussing justifications for the resort to military force ( _jus ad bellum_) and/or what may justifiably be done in the use of such force ( _jus in bello_). The scope of **_JME_** also includes research/discussion on ethical issues in military training, as well as the post-conflict role of military forces.  
 https://www.tandfonline.com/journals/smil20
 
+<br>
 
-**Journal of Intelligence Studies in Business (JISIB)**  
+**Journal of Intelligence Studies in Business (JISIB)**  - Norwegian Impact = 1
 JISIB is a peer-reviewed, no-fee Open Access Journal. The journal publishes articles on topics including market intelligence, marketing intelligence, strategic intelligence, business intelligence, competitive intelligence, collective intelligence, financial intelligence, scientific and technical intelligence, foresight, insight, and equivalent terms in other languages.  
 https://ojs.hh.se/index.php/JISIB
 
+<br>
 
-**Connections: The Quarterly Journal**  
+**Connections: The Quarterly Journal**  - Norwegian Impact = n/a
 http://connections-qj.org/ 
 
+<br>
 
-**Romanian Intelligence Studies Review**  
+**Romanian Intelligence Studies Review**  - Norwegian Impact = n/a
 https://animv.ro/en/revista-romana-de-studii-de-intelligence/ 
 
+<br>
 
-**Intelligence & Interview**  
+**Intelligence & Interview**  - Norwegian Impact = n/a
 https://www.scuolafilosofica.com/intelligenceinterview 
 
+<br>
 
-**RUSI Journal**  
+**RUSI Journal**  - Norwegian Impact = 1
 Published six times a year, the RUSI Journal is the Institute’s flagship publication and a leading forum for the exchange of ideas on national and international defence and security issues. Considered to be essential reading for anyone seeking to understand war and conflict, British and international defence and security policies, and military history.  
 https://rusi.org/explore-our-research/publications/rusi-journal
