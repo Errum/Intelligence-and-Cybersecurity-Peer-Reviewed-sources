@@ -27,27 +27,15 @@ https://www.tandfonline.com/toc/ujic20/current/
 
 <br>
 
-**The International Journal of Intelligence, Security, and Public Affairs**  - Norwegian Impact = n/a  
+**The International Journal of Intelligence, Security, and Public Affairs**  - Norwegian Impact = 1  
 Original academic and professional articles on matters related to intelligence applied to security, defense, business and the financial-economic environment.  
 https://www.tandfonline.com/usip20
 
 <br>
 
-**American Intelligence Journal**  - Norwegian Impact = n/a  
-Now in its fourth decade, the Journal's focus remains on education and professional development. We seek to augment both the capabilities and the performance of armed forces intelligence operators and their civilian counterparts.  
-https://www.jstor.org/journal/amerintej
-
-<br>
-
-**The Journal of Intelligence, Conflict, and Warfare**  - Norwegian Impact = n/a  
+**The Journal of Intelligence, Conflict, and Warfare**  - Norwegian Impact = n/a (Applied to be added to HKDIR)  
 The JICW is a practitioner-focused research resource and a researcher-focused opportunity to impact policy and real-world security and defence decision making.  
 https://jicw.org/index.php/jicw
-
-<br>
-
-**Journal of Intelligence and Analysis**  - Norwegian Impact = n/a  
-publication that strives to "bridge the gap" between academic research and the practical techniques employed by criminal research specialists and intelligence experts worldwide.  
-https://www.ialeia.org/journal_of_intelligence_and_an.php
 
 <br>
 
@@ -64,13 +52,7 @@ https://www.afio.com/
 
 <br>
 
-**Journal of Intelligence History**  - Norwegian Impact = n/a  
-an international peer-reviewed journal that aims to provide a forum for original research on the history of intelligence services, activities and their wider historical, political and social contexts.  
-http://intelligence-history.org/?page_id=16
-
-<br>
-
-**Global Security & Intelligence Studies (GSIS)**  - Norwegian Impact = 0  
+**Global Security & Intelligence Studies (GSIS)**  - Norwegian Impact = 0 (Applied to be added to HKDIR)  
 a forum in which the academic community, practitioners, leaders, and policymakers can engage in meaningful and developmental dialogue about contemporary global security and intelligence issues.  
 https://gsis.scholasticahq.com/
 
@@ -114,6 +96,23 @@ https://www.tandfonline.com/toc/rpic20/current
 
 <br>
 
+**Journal of Intelligence and Analysis**  - Norwegian Impact = n/a  
+publication that strives to "bridge the gap" between academic research and the practical techniques employed by criminal research specialists and intelligence experts worldwide.  
+https://www.ialeia.org/journal_of_intelligence_and_an.php
+
+<br>
+
+**Journal of Intelligence History**  - Norwegian Impact = n/a  
+an international peer-reviewed journal that aims to provide a forum for original research on the history of intelligence services, activities and their wider historical, political and social contexts.  
+http://intelligence-history.org/?page_id=16
+
+<br>
+
+**American Intelligence Journal**  - Norwegian Impact = n/a (Discontinued)  
+Now in its fourth decade, the Journal's focus remains on education and professional development. We seek to augment both the capabilities and the performance of armed forces intelligence operators and their civilian counterparts.  
+https://www.jstor.org/journal/amerintej
+
+<br>
 
 <br>
 
