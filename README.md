@@ -77,6 +77,12 @@ https://journals.sagepub.com/home/SDI
 
 <br>
 
+**International Security**  - Norwegian Impact = 2  
+International Security, the #2 journal in International Relations based on 2021 impact factor, publishes lucid, well-documented essays on the full range of contemporary security issues. Its articles address traditional topics of war and peace, as well as more recent dimensions of security, including environmental, demographic, and humanitarian issues, transnational networks, and emerging technologies  
+https://direct.mit.edu/isec
+
+<br>
+
 **The Journal of Intelligence, Conflict, and Warfare**  - Norwegian Impact = n/a (Applied to be added to HKDIR)  
 The JICW is a practitioner-focused research resource and a researcher-focused opportunity to impact policy and real-world security and defence decision making.  
 https://jicw.org/index.php/jicw
