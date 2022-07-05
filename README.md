@@ -3,7 +3,8 @@ Each listing is compared to a Norwegian "impact" system from 0 to 2 where:
 * **Level 2** is the highest level. The scientific panels carries out the yearly nomination for level 2. 
 * **Level 1** are publication channels considered to satisfy the minimum requirement to be counted as scientific (external peer review, scientific editorial board and minimum national authorship).
 * **Level 0* means that the publication channel has been considered, but rejected. The publication channel is not approved and publishing in it will not yield publication points. 
-* **Level x** are publication channels where we are in doubt whether the publication channel should be approved or not, in light of current criteria and available information. 
+* **Level x** are publication channels where we are in doubt whether the publication channel should be approved or not, in light of current criteria and available information.  
+
 (Source: https://kanalregister.hkdir.no/publiseringskanaler/Om.action?request_locale=en)
 
 <br>
