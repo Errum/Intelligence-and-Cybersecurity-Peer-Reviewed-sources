@@ -21,7 +21,7 @@ https://www.tandfonline.com/journals/fint20
 
 <br>
 
-**International Journal of Intelligence and CounterIntelligence**  - Norwegian Impact = 1  
+**International Journal of Intelligence and Counter Intelligence**  - Norwegian Impact = 1  
 Research on national security and past developments that helps government and businesses to make contemporary intelligence-related decisions and policy.  
 https://www.tandfonline.com/toc/ujic20/current/
 
