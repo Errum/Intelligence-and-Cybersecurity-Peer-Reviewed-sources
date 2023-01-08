@@ -83,6 +83,10 @@ https://direct.mit.edu/isec
 
 <br>
 
+**Cambridge Review of International Affairs** - Norwegian Impact = 1
+
+<br>
+
 **The Journal of Intelligence, Conflict, and Warfare**  - Norwegian Impact = n/a (Applied to be added to HKDIR)  
 The JICW is a practitioner-focused research resource and a researcher-focused opportunity to impact policy and real-world security and defence decision making.  
 https://jicw.org/index.php/jicw
