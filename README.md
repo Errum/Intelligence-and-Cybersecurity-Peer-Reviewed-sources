@@ -83,7 +83,13 @@ https://direct.mit.edu/isec
 
 <br>
 
+**Journal of Peace Research** -  Norwegian Impact = 2 
+
+
+<br>
+
 **Cambridge Review of International Affairs** - Norwegian Impact = 1
+
 
 <br>
 
