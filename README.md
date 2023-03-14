@@ -93,6 +93,12 @@ https://direct.mit.edu/isec
 
 <br>
 
+**Scandinavian Journal of Military Studies (SJMS)** - Norwegian Impact = 1
+The Scandinavian Journal of Military Studies (SJMS) is an online, open access journal publishing both high quality research and valuable practice-oriented studies relevant to the military profession. Hence, the journal consists of two distinct tracks: A practice-oriented track comprising articles (predominantly) authored by professionals and often holding practical advice or clear policy recommendations for the military profession; a research track open for original research within the broad remit of “military studies”. Articles in both tracks are subjected to double-blind peer review.
+
+
+<br>
+
 **The Journal of Intelligence, Conflict, and Warfare**  - Norwegian Impact = n/a (Applied to be added to HKDIR)  
 The JICW is a practitioner-focused research resource and a researcher-focused opportunity to impact policy and real-world security and defence decision making.  
 https://jicw.org/index.php/jicw
