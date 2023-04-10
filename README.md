@@ -148,6 +148,12 @@ https://www.tandfonline.com/loi/rjih20
 
 <br>
 
+**European Journal of Information Systems** - Norwegian Impact = 2  
+provides a distinctive European perspective on the theory and practice of information systems for a global audience. We encourage first-rate articles that provide a critical view on information technology – its effects, development, implementation, strategy, management and policy.
+https://www.tandfonline.com/journals/tjis20
+
+<br>
+
 <br>
 
 ## Conferences  
@@ -231,14 +237,6 @@ https://vc.bridgew.edu/ijcic/
 **Organizational Cybersecurity Journal: Practice, Process, and People**  - Norwegian Impact = n/a  
 an international, open access, peer-reviewed academic journal focusing on all topics related to cybersecurity management. The journal welcomes papers from human, technical, and process perspectives on the topic.  
 https://www.emeraldgrouppublishing.com/journal/ocj
-
-<br>
-
-<br>
-
-**European Journal of Information Systems** - Norwegian Impact = 2
-provides a distinctive European perspective on the theory and practice of information systems for a global audience. We encourage first-rate articles that provide a critical view on information technology – its effects, development, implementation, strategy, management and policy.
-https://www.tandfonline.com/journals/tjis20
 
 <br>
 
