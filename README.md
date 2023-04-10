@@ -236,6 +236,14 @@ https://www.emeraldgrouppublishing.com/journal/ocj
 
 <br>
 
+**European Journal of Information Systems** - Norwegian Impact = 2
+provides a distinctive European perspective on the theory and practice of information systems for a global audience. We encourage first-rate articles that provide a critical view on information technology – its effects, development, implementation, strategy, management and policy.
+https://www.tandfonline.com/journals/tjis20
+
+<br>
+
+<br>
+
 ## Conferences  
 
 <br>
