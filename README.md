@@ -15,6 +15,27 @@ Each listing is compared to a Norwegian "impact" system from 0 to 2 where:
 
 <br>
 
+**European Journal of Information Systems** - Norwegian Impact = 2  
+provides a distinctive European perspective on the theory and practice of information systems for a global audience. We encourage first-rate articles that provide a critical view on information technology – its effects, development, implementation, strategy, management and policy.  
+https://www.tandfonline.com/journals/tjis20
+
+<br>
+
+**Security Dialogue**  - Norwegian Impact = 2  
+Security Dialogue aims to combine cutting-edge advances in theory with new empirical findings across a range of fields relevant to the study of security. Security Dialogue provides an outlet for new approaches and methodologies from disciplines such as international studies, gender studies, political sociology, political economy, geography, cultural studies, political theory, anthropology, development studies, postcolonial studies, and peace and conflict studies.  
+https://journals.sagepub.com/home/SDI
+
+<br>
+
+**International Security**  - Norwegian Impact = 2  
+International Security, the #2 journal in International Relations based on 2021 impact factor, publishes lucid, well-documented essays on the full range of contemporary security issues. Its articles address traditional topics of war and peace, as well as more recent dimensions of security, including environmental, demographic, and humanitarian issues, transnational networks, and emerging technologies  
+https://direct.mit.edu/isec
+
+<br>
+
+**Journal of Peace Research** -  Norwegian Impact = 2  
+
+
 **Intelligence and national security**  - Norwegian Impact = 1  
 Intelligence and National Security is a leading journal focused on the role of intelligence and secretive agencies in international relations and politics.  
 https://www.tandfonline.com/journals/fint20
@@ -71,21 +92,6 @@ https://rusi.org/explore-our-research/publications/rusi-journal
 
 <br>
 
-**Security Dialogue**  - Norwegian Impact = 2  
-Security Dialogue aims to combine cutting-edge advances in theory with new empirical findings across a range of fields relevant to the study of security. Security Dialogue provides an outlet for new approaches and methodologies from disciplines such as international studies, gender studies, political sociology, political economy, geography, cultural studies, political theory, anthropology, development studies, postcolonial studies, and peace and conflict studies.  
-https://journals.sagepub.com/home/SDI
-
-<br>
-
-**International Security**  - Norwegian Impact = 2  
-International Security, the #2 journal in International Relations based on 2021 impact factor, publishes lucid, well-documented essays on the full range of contemporary security issues. Its articles address traditional topics of war and peace, as well as more recent dimensions of security, including environmental, demographic, and humanitarian issues, transnational networks, and emerging technologies  
-https://direct.mit.edu/isec
-
-<br>
-
-**Journal of Peace Research** -  Norwegian Impact = 2 
-
-
 <br>
 
 **Cambridge Review of International Affairs** - Norwegian Impact = 1
@@ -102,6 +108,18 @@ https://sjms.nu/
 **The Journal of Intelligence, Conflict, and Warfare**  - Norwegian Impact = 1  
 The JICW is a practitioner-focused research resource and a researcher-focused opportunity to impact policy and real-world security and defence decision making.  
 https://jicw.org/index.php/jicw
+
+<br>
+
+**Global Security & Intelligence Studies (GSIS)**  - Norwegian Impact = 1  
+A forum in which the academic community, practitioners, leaders, and policymakers can engage in meaningful and developmental dialogue about contemporary global security and intelligence issues.  
+https://gsis.scholasticahq.com/
+
+<br>
+
+**Journal of Intelligence History**  - Norwegian Impact = 1  
+An international peer-reviewed journal that aims to provide a forum for original research on the history of intelligence services, activities and their wider historical, political and social contexts.  
+https://www.tandfonline.com/loi/rjih20
 
 <br>
 
@@ -124,12 +142,6 @@ https://www.afio.com/
 
 <br>
 
-**Global Security & Intelligence Studies (GSIS)**  - Norwegian Impact = 0 (Applied to be re-evaluated by HKDIR)  
-a forum in which the academic community, practitioners, leaders, and policymakers can engage in meaningful and developmental dialogue about contemporary global security and intelligence issues.  
-https://gsis.scholasticahq.com/
-
-<br>
-
 **Journal of European and American Intelligence Studies (JEAIS)**  - Norwegian Impact = 0  (KDIR - Missing "Ukjent fagfellevurdering")  
 An international academic-led scholarly publication that focuses on the field of intelligence and related areas of study and practice, such as terrorism and counterterrorism, domestic and international security, geopolitics, and international relations. (formerly the Journal of Mediterranean and Balkan Intelligence (JMBI))  
 https://rieas.gr/intelligence-journal/home-intelligence
@@ -145,18 +157,6 @@ https://ndupress.ndu.edu/Journals/PRISM/
 **Journal of Intelligence and Analysis**  - Norwegian Impact = n/a  
 publication that strives to "bridge the gap" between academic research and the practical techniques employed by criminal research specialists and intelligence experts worldwide.  
 https://www.ialeia.org/journal_of_intelligence_and_an.php
-
-<br>
-
-**Journal of Intelligence History**  - Norwegian Impact = 1  
-An international peer-reviewed journal that aims to provide a forum for original research on the history of intelligence services, activities and their wider historical, political and social contexts.  
-https://www.tandfonline.com/loi/rjih20
-
-<br>
-
-**European Journal of Information Systems** - Norwegian Impact = 2  
-provides a distinctive European perspective on the theory and practice of information systems for a global audience. We encourage first-rate articles that provide a critical view on information technology – its effects, development, implementation, strategy, management and policy.  
-https://www.tandfonline.com/journals/tjis20
 
 <br>
 
@@ -221,28 +221,28 @@ https://www.ijisc.com/
 
 <br>
 
-**Journal of Threat Intelligence and Incident Response**  - Norwegian Impact = n/a (Applied to be added to HKDIR)  
+**Organizational Cybersecurity Journal: Practice, Process, and People**  - Norwegian Impact = 1  
+an international, open access, peer-reviewed academic journal focusing on all topics related to cybersecurity management. The journal welcomes papers from human, technical, and process perspectives on the topic.  
+https://www.emeraldgrouppublishing.com/journal/ocj
+
+<br>
+
+**Journal of Threat Intelligence and Incident Response**  - Norwegian Impact = 0 (HKDIR - Missing information)  
 The Journal of Threat Intelligence and Incident Response seeks to bridge the gap between industry and academia by providing a forum to share peer reviewed, relevant, and academically rigorous research that will provide a much needed scholarly source to support future research into the areas of cyber threat intelligence and incident response.  
 https://digitalcommons.calpoly.edu/jtiir/  
 https://www.sans.org/presentations/journal-of-threat-intelligence-and-incident-response/
 
 <br>
 
-**Journal of Strategic Threat Intelligence (Harvard)**  - Norwegian Impact = n/a (Applied to be added to HKDIR)  
+**Journal of Strategic Threat Intelligence (Harvard)**  - Norwegian Impact = 0 (HKDIR - Unknown Authorship)  
 publishes research reports informed by a wide array of theoretical perspectives (from Sociology to Computer Science, through Criminal Law), innovative in form and content, and focused on both traditional and emerging topics in the fields of Cybercrime, Cyberwarfare and Cybersecurity. It welcomes articles concerned with managerial and strategic issues.  
 https://blogs.harvard.edu/cybersecurity/
 
 <br>
 
-**International Journal of Cybersecurity Intelligence and Cybercrime (IJCIC)**  - Norwegian Impact = n/a (Applied to be added to HKDIR)  
+**International Journal of Cybersecurity Intelligence and Cybercrime (IJCIC)**  - Norwegian Impact = 0 (HKDIR - "Ukjent fagfellevurdering")  
 The Journal welcomes research submissions from criminologists, social scientists, computer scientists, cybersecurity practitioners, members of police agencies, policy-makers, and academic researchers. International and global perspectives on cybercrime and cybersecurity topics are also welcome for submission.  
 https://vc.bridgew.edu/ijcic/
-
-<br>
-
-**Organizational Cybersecurity Journal: Practice, Process, and People**  - Norwegian Impact = n/a  
-an international, open access, peer-reviewed academic journal focusing on all topics related to cybersecurity management. The journal welcomes papers from human, technical, and process perspectives on the topic.  
-https://www.emeraldgrouppublishing.com/journal/ocj
 
 <br>
 
