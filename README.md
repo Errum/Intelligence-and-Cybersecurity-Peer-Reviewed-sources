@@ -35,6 +35,7 @@ https://direct.mit.edu/isec
 
 **Journal of Peace Research** -  Norwegian Impact = 2  
 
+<br>
 
 **Intelligence and national security**  - Norwegian Impact = 1  
 Intelligence and National Security is a leading journal focused on the role of intelligence and secretive agencies in international relations and politics.  
