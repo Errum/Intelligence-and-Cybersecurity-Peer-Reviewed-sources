@@ -34,6 +34,8 @@ https://direct.mit.edu/isec
 <br>
 
 **Journal of Peace Research** -  Norwegian Impact = 2  
+an interdisciplinary and international peer reviewed bimonthly journal of scholarly work in peace research. Journal of Peace Research strives for a global focus on conflict and peacemaking. The journal encourages a wide conception of peace, but focuses on the causes of violence and conflict resolution  
+https://journals.sagepub.com/home/jpr
 
 <br>
 
