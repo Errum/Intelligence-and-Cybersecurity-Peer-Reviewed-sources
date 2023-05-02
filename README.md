@@ -148,7 +148,7 @@ https://www.ialeia.org/journal_of_intelligence_and_an.php
 
 <br>
 
-**Journal of Intelligence History**  - Norwegian Impact = n/a (Applied to be added to HKDIR)  
+**Journal of Intelligence History**  - Norwegian Impact = 1  
 An international peer-reviewed journal that aims to provide a forum for original research on the history of intelligence services, activities and their wider historical, political and social contexts.  
 https://www.tandfonline.com/loi/rjih20
 
