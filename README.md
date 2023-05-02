@@ -99,9 +99,15 @@ The Scandinavian Journal of Military Studies (SJMS) is an online, open access jo
 
 <br>
 
-**The Journal of Intelligence, Conflict, and Warfare**  - Norwegian Impact = n/a (Applied to be added to HKDIR)  
+**The Journal of Intelligence, Conflict, and Warfare**  - Norwegian Impact = 1  
 The JICW is a practitioner-focused research resource and a researcher-focused opportunity to impact policy and real-world security and defence decision making.  
 https://jicw.org/index.php/jicw
+
+<br>
+
+**Journal of Intelligence and Cyber Security (JICS)**  - Norwegian Impact = n/a  
+The Journal publishes research articles and thought-provoking essays of the highest quality on a wide range of subjects related to intelligence, cyber security, and related topics.  
+https://www.academicapress.com/journals
 
 <br>
 
@@ -124,7 +130,7 @@ https://gsis.scholasticahq.com/
 
 <br>
 
-**Journal of European and American Intelligence Studies (JEAIS)**  - Norwegian Impact = n/a  (Applied to be added to HKDIR)  
+**Journal of European and American Intelligence Studies (JEAIS)**  - Norwegian Impact = 0  (KDIR - Missing "Ukjent fagfellevurdering")  
 An international academic-led scholarly publication that focuses on the field of intelligence and related areas of study and practice, such as terrorism and counterterrorism, domestic and international security, geopolitics, and international relations. (formerly the Journal of Mediterranean and Balkan Intelligence (JMBI))  
 https://rieas.gr/intelligence-journal/home-intelligence
 
