@@ -163,6 +163,12 @@ https://www.ialeia.org/journal_of_intelligence_and_an.php
 
 <br>
 
+**American Intelligence Journal**  - Norwegian Impact = n/a  
+focus remains on education and professional development. We seek to augment both the capabilities and the performance of armed forces intelligence operators and their civilian counterparts.  
+https://www.jstor.org/journal/amerintej
+
+<br>
+
 <br>
 
 ## Conferences  
