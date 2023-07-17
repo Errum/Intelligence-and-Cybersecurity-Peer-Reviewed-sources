@@ -361,3 +361,10 @@ https://www.sans.org/cyber-security-summit/
 **USENIX**  
 Has brought together the community of engineers, system administrators, SREs, researchers, and technicians working on the cutting edge of the computing world. USENIX conferences have become the essential meeting grounds for the presentation and discussion of the most advanced information on the development of all aspects of computing systems.  
 https://www.usenix.org/conferences/all
+
+<br>
+
+**CTI- EU Conference powered by ENISA**  
+he main objective of the CTI-EU event is to bring experts, researchers, practitioners and academics together to promote the dialogue and envision the future of Cyber Threat Intelligence for Europe.  
+https://www.enisa.europa.eu/events/
+
