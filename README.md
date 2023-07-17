@@ -309,9 +309,46 @@ https://vc.bridgew.edu/ijcic/
 
 <br>
 
+**IEEE SYMPOSIUM ON SECURITY AND PRIVACY - Conference/Proceedings**  - Norwegian Impact = 2  
+The premier forum for presenting developments in computer security and electronic privacy, and for bringing together researchers and practitioners in the field.  
+https://ieeexplore.ieee.org/xpl/conhome/1000646/all-proceedings
+https://sp2023.ieee-security.org/
+
+<br>
+
 **Internationa Conference on Cyber Conflict - CyCon**  - Norwegian Impact = 1  
 The annual International Conference on Cyber Conflict (CyCon), by The NATO Cooperative Cyber Defence Centre of Excellence, addresses the most relevant issues concerning the cyber defence community and In its years of existence, CyCon has become a community-building event for cyber security professionals, adhering to the highest standards of academic research  
 https://ccdcoe.org/cycon/  
+
+<br>
+
+**IEEE SYMPOSIUM ON SECURITY AND PRIVACY - Conference/Proceedings**  - Norwegian Impact = 2  
+The premier forum for presenting developments in computer security and electronic privacy, and for bringing together researchers and practitioners in the field.  
+https://ieeexplore.ieee.org/xpl/conhome/1000646/all-proceedings
+https://sp2023.ieee-security.org/
+
+<br>
+
+**European Symposium on Research in Computer Security - ESORICS**  
+Further the progress of research in computer security by establishing a European forum for bringing together researchers in this area.  
+https://conf.laas.fr/esorics/
+
+<br>
+
+**Information Security and Privacy Protection - IFIP SEC**  
+To increase the trustworthiness and general confidence in information processing and to act as a forum for security and privacy protection experts and others professionally active in the field.  
+https://www.ifipsec.org/
+
+<br>
+**International Conference on Availability, Reliability and Security - ARES**  
+brings together researchers and practitioners in the field of IT security & privacy.  
+https://www.ares-conference.eu/
+
+<br>
+
+**Association for Computing Machinery Computer and Communications Security - ACM CCS**  
+A leading international forum for information security researchers, practitioners, developers, and users to explore cutting-edge ideas and results, and to exchange techniques, tools, and experiences.  
+https://dl.acm.org/conference/ccs
 
 <br>
 
