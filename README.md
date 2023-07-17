@@ -224,7 +224,7 @@ https://www.computer.org/csdl/journal/tq
 
 <br>
 
-**https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206**  - Norwegian Impact = 2  
+**IEEE Transactions on Information Forensics and Security**  - Norwegian Impact = 2  
 covers the sciences, technologies, and applications relating to information forensics, information security, biometrics, surveillance and systems applications that incorporate these features.  
 https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206
 
