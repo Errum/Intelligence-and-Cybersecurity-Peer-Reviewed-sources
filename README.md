@@ -206,6 +206,54 @@ https://www.isanet.org/ISA/Sections/ISS
 
 <br>
 
+**International Journal of Information Security**  - Norwegian Impact = 2  
+research in information security which offers prompt publication of important technical work, whether theoretical, applicable, or related to implementation.  
+https://www.springer.com/journal/10207/
+
+<br>
+
+**ACM Transactions on Information & Systems Security**  - Norwegian Impact = 2  
+publishes papers on information retrieval (such as search engines, recommender systems) that contain new principled information retrieval models or algorithms with sound empirical validation.  
+https://dl.acm.org/journal/tois
+
+<br>
+
+**IEEE Transactions on Dependable & Secure Computing**  - Norwegian Impact = 2  
+publishes archival research results focusing on research into foundations, methodologies, and mechanisms that support the achievement–through design, modeling, and evaluation–of systems and networks that are dependable and secure to the desired degree without compromising performance.  
+https://www.computer.org/csdl/journal/tq
+
+<br>
+
+**https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206**  - Norwegian Impact = 2  
+covers the sciences, technologies, and applications relating to information forensics, information security, biometrics, surveillance and systems applications that incorporate these features.  
+https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206
+
+<br>
+
+**Journal of Information Security and Applications**  - Norwegian Impact = 1  
+focuses on the original research and practice-driven applications with relevance to information security and applications.  
+https://www.sciencedirect.com/journal/journal-of-information-security-and-applications
+
+<br>
+
+**Computers & Security**  - Norwegian Impact = 1  
+Computers & Security provides the IT security community with a unique blend of leading edge research and sound practical management advice. It is aimed at the professional involved with computer security, audit, control and data integrity in all sectors - industry, commerce and academia - helping the community build and operate fully secure systems and organisations.  
+https://www.sciencedirect.com/journal/computers-and-security
+
+<br>
+
+**Journal of Computer Security**  - Norwegian Impact = 1  
+research and development results of lasting significance in the theory, design, implementation, analysis, and application of secure computer systems. It also provides a forum for ideas about the meaning and implications of security and privacy, particularly those with important consequences for the technical community.  
+https://www.iospress.com/catalog/journals/journal-of-computer-security
+
+<br>
+
+**Information and Computer Security**  - Norwegian Impact = 1  
+cover the human aspects of security, looking at the impact of user and business behaviours when dealing with security issues. It communicates fresh ideas and cutting-edge research to academics and practitioners.  
+https://www.emeraldgrouppublishing.com/journal/ics
+
+<br>
+
 **Journal of Cybersecurity (Oxford)**  - Norwegian Impact = 1  
 Journal of Cybersecurity publishes accessible articles describing original research in the inherently interdisciplinary cyber domain.  
 https://academic.oup.com/cybersecurity/
@@ -249,7 +297,7 @@ https://blogs.harvard.edu/cybersecurity/
 
 <br>
 
-**International Journal of Cybersecurity Intelligence and Cybercrime (IJCIC)**  - Norwegian Impact = 0 (HKDIR - "Ukjent fagfellevurdering")  
+**International Journal of Cybersecurity Intelligence and Cybercrime (IJCIC)**  - Norwegian Impact = 0 (HKDIR - "Unknown peer review process")  
 The Journal welcomes research submissions from criminologists, social scientists, computer scientists, cybersecurity practitioners, members of police agencies, policy-makers, and academic researchers. International and global perspectives on cybercrime and cybersecurity topics are also welcome for submission.  
 https://vc.bridgew.edu/ijcic/
 
