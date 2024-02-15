@@ -169,6 +169,12 @@ https://www.jstor.org/journal/amerintej
 
 <br>
 
+**Homeland Security and Emergency Management**  - Norwegian Impact = 1  
+An online journal that publishes original, innovative, and timely articles describing and assessing research and practice in the fields of domestic security and emergency management.  
+https://www.degruyter.com/journal/key/jhsem/html
+
+<br>
+
 <br>
 
 ## Conferences  
