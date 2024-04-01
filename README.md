@@ -45,6 +45,12 @@ https://journals.sagepub.com/home/ejt
 
 <br>
 
+**Security Dialogue** - Norwegian Impact = 2  
+aims to combine cutting-edge advances in theory with new empirical findings across a range of fields relevant to the study of security.  
+https://journals.sagepub.com/home/sdi
+
+<br>
+
 **Intelligence and national security**  - Norwegian Impact = 1  
 Intelligence and National Security is a leading journal focused on the role of intelligence and secretive agencies in international relations and politics.  
 https://www.tandfonline.com/journals/fint20
