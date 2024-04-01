@@ -39,6 +39,12 @@ https://journals.sagepub.com/home/jpr
 
 <br>
 
+**European Journal of International Relations** - Norwegian Impact = 2  
+publishes peer-reviewed scholarly contributions across the full breadth of the field of International Relations, from cutting edge theoretical debates to topics of contemporary and historical interest to scholars and practitioners in the IR community.  
+https://journals.sagepub.com/home/ejt
+
+<br>
+
 **Intelligence and national security**  - Norwegian Impact = 1  
 Intelligence and National Security is a leading journal focused on the role of intelligence and secretive agencies in international relations and politics.  
 https://www.tandfonline.com/journals/fint20
